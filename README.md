@@ -1,11 +1,50 @@
-# A-Frame Project
+# Business Card AR Project
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
+![Project Banner](https://cdn.glitch.global/58462917-9239-4f18-aa7b-6c6e054fcb95/Screenshot%202024-07-10%20092323.png?v=1720578307438)
 
-**[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
+## Introduction
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
+This repository contains a web-based Augmented Reality (AR) business card project developed using AR.js, A-Frame, and Glitch. The project allows users to view interactive 3D elements when scanning the business card with their devices.
 
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
+## Features
 
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
+- **Augmented Reality:** Utilizing AR.js to provide a seamless AR experience.
+- **3D Models:** Created with A-Frame for immersive 3D interactions.
+- **Easy Deployment:** Hosted on Glitch for easy access and deployment.
+
+## Technologies Used
+
+- [AR.js](https://ar-js-org.github.io/AR.js/)
+- [A-Frame](https://aframe.io/)
+- [Glitch](https://glitch.com/)
+
+## Getting Started
+
+### Prerequisites
+
+To run this project locally, you'll need:
+
+- A web browser that supports WebXR (e.g., Chrome, Firefox)
+- A webcam or a mobile device with a camera
+
+### Installation
+
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/maviswisanggeni/business-card.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd business-card
+    ```
+
+3. Open `index.html` in your web browser to view the AR business card.
+
+### Usage
+
+- Print out the AR marker provided in the `markers` directory.
+- Open the `index.html` file in your web browser.
+- Point your camera at the printed AR marker to see the AR content.
