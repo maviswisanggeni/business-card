@@ -48,3 +48,7 @@ To run this project locally, you'll need:
 - Print out the AR marker provided in the `markers` directory.
 - Open the `index.html` file in your web browser.
 - Point your camera at the printed AR marker to see the AR content.
+
+### Demo 
+
+https://github.com/maviswisanggeni/business-card/assets/77600687/1ee0867f-1938-48ae-a515-6ad4f3b202b2
